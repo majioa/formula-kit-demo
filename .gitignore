@@ -1,0 +1,10 @@
+#windows object
+*.obj
+
+#execulables
+*.lib
+*.bpl
+*.dll
+
+#vim backup
+*~
